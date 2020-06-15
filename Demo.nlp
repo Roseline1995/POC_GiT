@@ -1,0 +1,13 @@
+# Project description file
+
+project.name=Demo
+project.version=8.0
+project.original.version=8.0
+product.name=NeoLoad
+product.original.name=NeoLoad
+product.original.version=7.4.0
+project.id=8658f515-ea98-46c0-8eac-96082eccc0fe
+project.config.path=config.zip
+project.config.storage=ZIP
+team.server.enabled=true
+team.server.project=/Roseline1995/POC_GiT.git
