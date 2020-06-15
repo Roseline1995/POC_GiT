@@ -1,0 +1,5 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="transaction3" pacingEnd="0" pacingMode="MODE_NO_PACING"
+    pacingStart="0" pacingValue="0" slaProfileEnabled="false"
+    traceVariableNamesAsString=""
+    uid="80c6c057-713c-4be8-9f72-ba61a423987a" weightsEnabled="false"/>
